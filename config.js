@@ -43,7 +43,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Manu-MD&aZMjAajK#yboBTUKrgqUBvhgV_IELa4BCurPrVN1HhpCyN9-ebm8",
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&SdEAyRrZ#7RCIqwG9jmzIp22YtiOHiMSvD8yvzx8EErFDD5xC4Ow",
 ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
 ALIVE_MSG : process.env.ALIVE_MSG || "Hello, Hasiya bot wellcome",
 MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
@@ -69,7 +69,7 @@ AUTO_TYPING : process.env.AUTO_TYPING || "true",
 AUTO_RECORDING : process.env.AUTO_RECORDING || "false",
 OWNER_NUMBER : process.env.OWNER_NUMBER || "94764458506",
 DELCHAT : process.env.DELCHAT || "pm",
-FOOT : process.env.FOOT || "🧚‍♀️𝗛𝗔𝗦𝗜𝗬𝗔-𝗠𝗗-𝗩❼💗",
+FOOT : process.env.FOOT || "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
 BOT_INFO: process.env.BOT_INFO || "Manu-MD;OFC;0;https://i.ibb.co/GRpbTZp/IMG-20240920-WA0020.jpg;https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R",
 HANDLERS: process.env.HANDLERS || ".,",
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1500': process.env.MAX_SIZE,
